@@ -1,2 +1,7 @@
-# FKO-KERALAM
-TELEGRAM OFFICIAL GROUP MANAGING BOT FOR KERALA
+A modular telegram Python bot running on python3 with an sqlalchemy database. (ഒരു മോഡുലാർ ടെലിഗ്രാം പൈത്തൺ ബോട്ട് പൈത്തൺ 3-ൽ ഒരു സ്ക്ലാൽ‌ചെമി ഡാറ്റാബേസ് ഉപയോഗിച്ച് പ്രവർത്തിക്കുന്നു.)
+
+ഒന്നിലധികം അഡ്‌മിൻ സവിശേഷതകളുള്ള ഒരു ലളിതമായ ഗ്രൂപ്പ് മാനേജുമെന്റ് ബോട്ട്, ഇത് വികസിച്ചു, വളരെ മോഡുലാർ ആയിത്തീർന്നു. ഉപയോഗിക്കാൻ ലളിതമാണ്.
+
+എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും
+
+എന്നെ ഉണ്ടാക്കിയിരിക്കുന്നത് [FKO KERALAM](https://t.me/Fko63) ആണ് 
